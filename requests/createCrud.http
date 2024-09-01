@@ -1,0 +1,8 @@
+PORT http://localhost:5001/user HTTP/1.1
+Content-Type: application/json
+
+{
+   "firstName": "Test",
+   "lastName": "Testovych",
+   "email": "mail@wail.com",
+  }"
